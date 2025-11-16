@@ -32,7 +32,7 @@ Backend completo para una plataforma de gestión de eventos con autenticación, 
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <tu-repo>
+git clone [<tu-repo>](https://github.com/ingfranciscastillo/plataforma-gestion-eventos-backend)
 cd event-management-backend
 ```
 
